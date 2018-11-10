@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "908483459454",
+    "firebase_url": "https://stormbidder2.firebaseio.com",
+    "project_id": "stormbidder2",
+    "storage_bucket": "stormbidder2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908483459454:android:f6d79d64ee5cc58e",
+        "android_client_info": {
+          "package_name": "com.example.sandip.stormbidder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908483459454-s0ovsa63q60pcpi20vk34gt033nm6if6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uBM_-KO-xbwJ8YLGhLa1SE7IPiJXQvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home">
+    </item>
+    <item android:id="@+id/profile"
+        android:title="My Account">
+    </item>
+    <item android:id="@+id/search"
+        android:title="Search">
+    </item>
+    <item android:id="@+id/upload"
+        android:title="Upload">
+    </item>
+    <item android:id="@+id/home_items"
+        android:title="Deals Ending Today">
+    </item>
+    <item android:id="@+id/logout"
+        android:title="Logout">
+    </item>
+
+
+</menu>

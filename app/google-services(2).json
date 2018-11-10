@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "119359980699",
+    "firebase_url": "https://stormbidder2-c91cc.firebaseio.com",
+    "project_id": "stormbidder2-c91cc",
+    "storage_bucket": "stormbidder2-c91cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119359980699:android:f6d79d64ee5cc58e",
+        "android_client_info": {
+          "package_name": "com.example.sandip.stormbidder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119359980699-d5aatmmtdvfse7ndi7l22mfipu6evdr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandip.stormbidder",
+            "certificate_hash": "61a619fc450549a267360ac3e91547e38185fd9d"
+          }
+        },
+        {
+          "client_id": "119359980699-gldc0v1h7mp77ookgql5os16ds1un0dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkGHTutYALYOOqijM4w_ToThYgzvAJL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119359980699-gldc0v1h7mp77ookgql5os16ds1un0dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
